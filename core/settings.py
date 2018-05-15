@@ -87,10 +87,10 @@ DATABASES = {
 
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'user_1$site_db',
+        'NAME': 'vodono$site_db',
         'USER': 'user_1',
         'PASSWORD': 'user_1',
-        'HOST': '',
+        'HOST': 'vodono.mysql.pythonanywhere-services.com',
     }
 }
 
